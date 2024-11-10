@@ -26,9 +26,5 @@ Eğitime, üniversite öğrencileri ve yeni mezunlar katılım sağlamıştır. 
 
 Atölye sonunda başarılı olan katılımcılara **BTK Akademi** tarafından başarı sertifikası verilmiştir.
 
-## Gelecek Eğitimler
-
-**BTK Akademi**, Antalya'da yeni bir yapay zeka atölyesi planlamaktadır.
-
 Daha fazla bilgi ve güncel eğitim duyuruları için [BTK Akademi'nin resmi web sitesini](https://www.btkakademi.gov.tr) ziyaret edebilirsiniz.
 
